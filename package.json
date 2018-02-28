@@ -1,0 +1,15 @@
+{
+  "name": "old-versions-lambda",
+  "version": "1.0.0",
+  "description": "AWS lambda clear old versions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "baquiax",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "2.203.0",
+    "lodash": "4.17.5"
+  }
+}
